@@ -4,13 +4,11 @@
 只关注名字好不好听，不关注八字吉凶。
 # 使用方法
 **1.安装所有第三方库**
-
+```
 pip install pypinyin
-
 pip install jieba
-
 pip install opencc-python-reimplemented
-
+```
 **2.调整main.py中的参数**
 ```
 # 长辈姓名--删掉所有读音相同的字--例：加入“伟”，则结果中不会出现任何读音为we的字（为伟位微卫...）
