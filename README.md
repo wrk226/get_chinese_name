@@ -9,8 +9,6 @@ pip install pypinyin
 
 pip install jieba
 
-pip install OpenCC
-
 pip install opencc-python-reimplemented
 
 **2.调整main.py中的参数**
