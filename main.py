@@ -56,7 +56,7 @@ filter_gender = True
 gender = "女"
 
 names = list()
-with open("data/names.txt", "w+", encoding='utf-8') as f:
+with open("names.txt", "w+", encoding='utf-8') as f:
     for i in get_source(name_source, name_validate, character_number):
         if i.stroke_number < stroke_number[0] or stroke_number[1] < i.stroke_number:
             continue
