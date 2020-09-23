@@ -134,7 +134,7 @@ gender = "女"
 
 **3.Result will write in "names.txt"**
 ```
-for example：
+For example：
 name   gender strock number               origin
 王琼瑶   女	    26	       投我以木桃，报之以琼瑶。匪报也，永以为好也！
 王琼莹   女	    22	       俟我于庭乎而，充耳以青乎而，尚之以琼莹乎而。
