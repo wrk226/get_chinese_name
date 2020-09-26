@@ -15,6 +15,7 @@ def get_source(source, validate, character_number):
         get_name_valid('Chinese_Names', exist_name)
 
     print(">>正在加载姓名词库...")
+    print("**某些词库可能非常大，需要加载一段时间，请耐心等待**")
     names = set()
 
     # 默认
